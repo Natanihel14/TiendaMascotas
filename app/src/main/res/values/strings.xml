@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TiendaMascotas</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_list2">List2Activity</string>
+    <string name="title_activity_list3">List3Activity</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_tabs_principal">Tabs_Principal</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_busq">BusqActivity</string>
+    <string name="title_activity_mensaje">MensajeActivity</string>
+</resources>
